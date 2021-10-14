@@ -41,3 +41,12 @@ git branch new_branch
 
 E.X: git branch new-branch
 ```
+## PUSH A BRANCH
+
+> command
+
+```bash
+git push origin branch_name
+
+E.X: git push origin new-branch
+```
