@@ -32,3 +32,12 @@ git commit -m "commit-message"
 
 E.X: git commit -m "initial commit"
 ```
+## CREATE A BRANCH IN LOCAL
+
+> command
+
+```bash
+git branch new_branch
+
+E.X: git branch new-branch
+```
